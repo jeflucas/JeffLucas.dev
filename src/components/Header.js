@@ -9,7 +9,7 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Hi, I'm {data.name}{" "}
+              Olá, eu sou o {data.name}{" "}
               <span role="img" aria-label="Emoji">
                 👋
               </span>
@@ -42,11 +42,13 @@ const Header = () => {
           <Fade bottom>
             <a
               href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
+                data.contactEmail
+                  ? data.contactEmail
+                  : "jef.lucas@hotmail.co.uk"
               }`}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              CONTATO
             </a>
           </Fade>
         </div>

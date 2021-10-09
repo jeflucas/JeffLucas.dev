@@ -29,7 +29,7 @@ import Header from "../components/Header";
 
 const IndexPage = () => (
   <Layout>
-    <h1>Opa</h1>
+    <Header></Header>
   </Layout>
 );
 

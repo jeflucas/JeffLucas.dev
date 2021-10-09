@@ -17,21 +17,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Jeff Lucas",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Transformo idéias em",
     //Line 2 For Header
-    "products, brands,",
+    "produtos com",
     //Line 3 For Header
-    "and experience",
+    "apelo visual",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Profissional dedicado e responsável, quero te ajudar a melhorar e dar visibilidade à sua idéia, produto ou marca!",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "jef.lucas@hotmail.co.uk",
 
   // End Header Details -----------------------
 
