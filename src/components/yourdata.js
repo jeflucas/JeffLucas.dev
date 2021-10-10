@@ -58,15 +58,15 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "http://ensinosimples.com.br/blog.htmlhttps://jeflucas.github.io/urlShortener/index.html",
     },
-    //    {
-    //      title: "Project Three", //Project Title - Add Your Project Title Here
-    //      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-    //      //Project Image - Add Your Project Image Here
-    //      imageSrc:
-    //        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-    //      //Project URL - Add Your Project Url Here
-    //      url: "http://chetanverma.com/",
-    //    },
+    {
+      title: "Fast and Fuel", //Project Title - Add Your Project Title Here
+      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://raw.githubusercontent.com/jeflucas/fastAndFuel/main/img/capture.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://jeflucas.github.io/fastAndFuel/",
+    },
     //    {
     //      title: "Project Four", //Project Title - Add Your Project Title Here
     //      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
