@@ -56,7 +56,7 @@ export default {
       imageSrc:
         "https://raw.githubusercontent.com/jeflucas/urlShortener/main/img/Capture.JPG",
       //Project URL - Add Your Project Url Here
-      url: "http://ensinosimples.com.br/blog.htmlhttps://jeflucas.github.io/urlShortener/index.html",
+      url: "https://jeflucas.github.io/urlShortener/index.html",
     },
     {
       title: "Fast and Fuel", //Project Title - Add Your Project Title Here
