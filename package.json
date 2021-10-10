@@ -5,16 +5,16 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^12.1.10",
+    "@testing-library/user-event": "^13.2.1",
     "gatsby-plugin-smoothscroll": "^1.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^6.0.1",
     "npm-check": "^5.9.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
     "sass": "^1.42.1",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8"
+  }
 }
