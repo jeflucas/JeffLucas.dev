@@ -50,13 +50,13 @@ export default {
       url: "http://ensinosimples.com.br",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "URL Shortner", //Project Title - Add Your Project Title Here
+      para: "URL Shortner é um aplicativo web de página única que utiliza uma API para enviar uma URL normal e retorna uma URL encurtada, a aplicação foi desenvolvida em VueJs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://raw.githubusercontent.com/jeflucas/urlShortener/main/img/Capture.JPG",
       //Project URL - Add Your Project Url Here
-      url: "http://ensinosimples.com.br/blog.html",
+      url: "http://ensinosimples.com.br/blog.htmlhttps://jeflucas.github.io/urlShortener/index.html",
     },
     //    {
     //      title: "Project Three", //Project Title - Add Your Project Title Here
