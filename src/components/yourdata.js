@@ -60,7 +60,7 @@ export default {
     },
     {
       title: "Fast and Fuel", //Project Title - Add Your Project Title Here
-      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      para: "Fast and Fuel é um aplicativo de página única que faz o controle do consumo de combustível, recebendo a numeração do odômetro e a quantidade de combustível abastecida. Ele utiliza uma planilha do Google como banco de dados.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://raw.githubusercontent.com/jeflucas/fastAndFuel/main/img/capture.png",
