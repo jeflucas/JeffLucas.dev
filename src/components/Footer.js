@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-container">
           <Fade bottom cascade>
-            <h1>Contact</h1>
+            <h1>Contato</h1>
             <h2>{data.contactSubHeading}</h2>
           </Fade>
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
@@ -27,8 +27,8 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Made With <icon>❤</icon> by{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
+            Feito por
+            <a href="https://www.linkedin.com/in/jlrs/"> Jeff Lucas</a>
           </span>
         </div>
       </div>

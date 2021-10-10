@@ -6,11 +6,11 @@ import Layout from "../components/layout";
 // Components
 
 import Header from "../components/Header";
-// import Work from "../components/Work";
-// import About from "../components/about";
+import Work from "../components/Work";
+import About from "../components/about";
 // import Skills from "../components/skills";
 // import Promotion from "../components/Promotion";
-// import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 
 /**
  * 
@@ -18,18 +18,18 @@ import Header from "../components/Header";
   <Layout>
   <SEO title="Portfolio Template" />
   <Header></Header>
-    <Work></Work>
-    <About></About>
-    <Skills></Skills>
-    <Promotion></Promotion>
-    <Footer></Footer>
-    
-    </Layout>
-    */
+  
+  <Skills></Skills>
+  <Promotion></Promotion>
+  </Layout>
+  */
 
 const IndexPage = () => (
   <Layout>
     <Header></Header>
+    <About></About>
+    <Work></Work>
+    <Footer></Footer>
   </Layout>
 );
 
