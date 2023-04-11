@@ -114,7 +114,7 @@ export default {
   aboutParaTwo:
     "Atualmente como Analista de Dados e Gerente de Inteligência Competitiva em uma grande empresa de Brasília, faço o gerenciamento de uma equipe de analistas e provendo informações para subsidiar a tomada de decisão da empresa",
   aboutParaThree:
-    "Desenvolvo aplicações web e mobile com preferência para a biblioteca React e React-Native. Mantêm um blog de ensino com foco em conceitos básicos de informática para o público em geral.",
+    "Desenvolvo aplicações web e mobile com preferência para a biblioteca React e React-Native. Mantenho um blog de ensino com foco em conceitos básicos de informática para o público em geral.",
   aboutImage: "https://avatars.githubusercontent.com/u/44186536?v=4",
 
   //   End About Section ---------------------
